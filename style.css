@@ -9,3 +9,15 @@ h1  {
   border-radius: 5px;
   box-shadow: 5px 5px 7px gray;
 }
+
+p {
+  width: 400px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid orange;
+  padding: 10px;
+  line-height: 25px;
+  margin: 20px auto;
+  box-shadow: 5px 5px 7px gray;
+}
